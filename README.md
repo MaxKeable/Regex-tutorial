@@ -5,6 +5,8 @@
 
 In this tutorial you will learn about an email regex. The turtorial breaks the regex down into it's indervidual components in order to understand the entirety of the regex's function.
 
+[GitHub Gist](https://gist.github.com/MaxKeable/20546c0c3e191a0603af6d61cd2cae99)
+
 ## Table of Contents:
 - [Email Regex](#email-regex)
   - [Description:](#description)
@@ -17,7 +19,9 @@ In this tutorial you will learn about an email regex. The turtorial breaks the r
   - [Acceptance Criteria](#acceptance-criteria)
   - [Usage Instructions](#usage-instructions)
   - [Repository Link:](#repository-link)
+  - [Deployed Gist Link:](#deployed-gist-link)
   - [Screenshots.](#screenshots)
+    - [Figure's Regex GitHub Gist](#figures-regex-github-gist)
   - [Installation Process](#installation-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -66,14 +70,16 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ## Repository Link:
 [Repository Link 'Click Here'.](https://github.com/MaxKeable/Regex-tutorial)
 
+## Deployed Gist Link: 
+[Regex GitHub Gist](https://gist.github.com/MaxKeable/20546c0c3e191a0603af6d61cd2cae99)
+
 
 ## Screenshots.
-<!-- ### Figure 1. Command line interface
-![screen shot 1](./Assets/13-orm-homework-demo-01%20copy.gif)
+### Figure's Regex GitHub Gist
+![screen shot 1](./images/Screenshot%202023-06-12%20at%2010.49.08%20am.png)
 
-![screen shot 2](./Assets/13-orm-homework-demo-02%20copy.gif)
+![screen shot 2](./images/Screenshot%202023-06-12%20at%2010.49.16%20am.png)
 
-![screen shot 3](./Assets/13-orm-homework-demo-03%20copy.gif) -->
 
 ## Installation Process
 1. Access the deployed public GitHub Gist [Here](https://gist.github.com/MaxKeable/20546c0c3e191a0603af6d61cd2cae99)
