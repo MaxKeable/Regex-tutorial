@@ -10,6 +10,7 @@ In this tutorial you will learn about an email regex. The turtorial breaks the r
   - [Description:](#description)
   - [Table of Contents:](#table-of-contents)
 - [Overview](#overview)
+  - [These Sourced were consulted in conducting research](#these-sourced-were-consulted-in-conducting-research)
   - [The Task](#the-task)
   - [The Challenge:](#the-challenge)
   - [User Story](#user-story)
@@ -23,6 +24,11 @@ In this tutorial you will learn about an email regex. The turtorial breaks the r
   - [Author](#author)
 
 # Overview
+
+## These Sourced were consulted in conducting research
+
+- [Fireship](https://www.youtube.com/watch?v=sXQxhojSdZM)
+- [W3schools](https://www.w3schools.com/python/python_regex.asp)
 
 ## The Task
 
