@@ -3,6 +3,19 @@
 ## Introduction
 Welcome to this tutorial on email validation using regular expressions (regex). In this tutorial, we will explore how to construct a regex pattern for validating email addresses. We will break down the components of the regex and explain their purpose, providing examples along the way.
 
+## Table of Contents:
+- [Regex Tutorial: Email Validation](#regex-tutorial-email-validation)
+  - [Introduction](#introduction)
+  - [Table of Contents:](#table-of-contents)
+  - [Regex Summary](#regex-summary)
+  - [Component Breakdown](#component-breakdown)
+    - [1. Username](#1-username)
+    - [2. @ Symbol](#2--symbol)
+    - [3. Domain Name](#3-domain-name)
+    - [4. Top-Level Domain (TLD)](#4-top-level-domain-tld)
+  - [Author](#author)
+  - [Conclusion](#conclusion)
+
 ## Regex Summary
 The regex pattern for email validation is:
 ```md
